@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right top, #197a4f, #459459, #6cae62, #95c86b, #c0e175);
+}
+h1{
+    margin-left: 10%;
+    color: rgb(169, 196, 231);
+    text-shadow: 2px 2px 4px #000000;
+    font-family: Impact;
+}
+li{
+    color: whitesmoke;
+    text-shadow: 0 0 3px #FF0000;
+    font-family: Bahnschrift SemiBold;
+}
+h3{
+    font-family: Arial Black;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
